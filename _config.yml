@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Shaohua Dong"
+  name             : Shaohua Dong
   pronouns         : # example: "she/her"  
-  bio              : "Computer vision, Visual object tracking"
-  location         : UNT Discovery Park, 3940 N Elm St, Denton, TX 76207
-  employer         : "University of North Texas"
+  bio              : # "Computer vision, Visual object tracking"
+  location         : Denton, TX
+  employer         : University of North Texas
   uri              : https://shaohuadong2021.github.io/
   email            : "shaohuadong@my.unt.edu" 
 
