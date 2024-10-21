@@ -6,13 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-PhD student 
-
-Department of Computer Science and Engineering, University of North Texas 
-
-Room F232, Discovery Park, 3940 N Elm St, Denton, TX 76207
-
-Email: shaohuadong@my.unt.edu 
+PhD student <br>
+Department of Computer Science and Engineering, University of North Texas <br>
+Room F232, Discovery Park, 3940 N Elm St, Denton, TX 76207<br>
+Email: shaohuadong@my.unt.edu <br>
 
 [CV](../assets/ShaohuaDong_CV.pdf) / [Google Scholar](https://scholar.google.com/citations?user=5iSEcFkAAAAJ&hl=en) / [Github](https://github.com/ShaohuaDong2021) / [LinkedIn](https://www.linkedin.com/in/shaohuadong/) / 
 
