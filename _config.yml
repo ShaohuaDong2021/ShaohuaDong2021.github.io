@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "citations.jpeg"
+  avatar           : "citations.png"
   name             : Shaohua Dong
   pronouns         : # example: "she/her"  
   bio              : # "Computer vision, Visual object tracking"
