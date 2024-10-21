@@ -1,12 +1,12 @@
 ---
 permalink: /
-## title: "Shaohua Dong"
+title: "Shaohua Dong"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-PhD student <br>
+# PhD student <br>
 Department of Computer Science and Engineering, University of North Texas <br>
 Room F232, Discovery Park, 3940 N Elm St, Denton, TX 76207<br>
 Email: shaohuadong@my.unt.edu <br>
