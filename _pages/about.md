@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shaohua Dong"
+## title: "Shaohua Dong"
 author_profile: true
 redirect_from: 
   - /about/
