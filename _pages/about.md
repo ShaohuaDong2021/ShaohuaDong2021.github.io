@@ -14,7 +14,7 @@ Email: shaohuadong@my.unt.edu <br>
 
 ## Short Bio <br>
 <p align="justify">
-Shaohua Dong is currently a PhD student (advised by Professor <a href="https://hengfan2010.github.io/">Heng Fan</a>) in the <a href="https://engineering.unt.edu/cse/index.html">Department of Computer Science and Engineering</a> at the <a href="https://www.unt.edu/?gad_source=1&gclid=Cj0KCQjw99e4BhDiARIsAISE7P8fMOsV2Wb8kXSacews3JElUjevhkUVb04qeRYSXxu1Iw5NkQxo0_8aAqPOEALw_wcB">University of North Texas</a>. He received his B.S. from Ludong University in 2020 and Master’s degree (advised by Professor <a href="https://www.scholat.com/zhouwujie/">Wujie Zhou</a>) from Zhejiang University of Science and Technology in 2023, respectively. His research interests include computer vision with a particular interest in efficient video object tracking and semantic segmentation.
+Shaohua Dong is currently a PhD student (advised by Professor <a href="https://hengfan2010.github.io/">Heng Fan</a>) in the <a href="https://engineering.unt.edu/cse/index.html">Department of Computer Science and Engineering</a> at the <a href="https://www.unt.edu/?gad_source=1&gclid=Cj0KCQjw99e4BhDiARIsAISE7P8fMOsV2Wb8kXSacews3JElUjevhkUVb04qeRYSXxu1Iw5NkQxo0_8aAqPOEALw_wcB">University of North Texas</a>. He received his B.S. from Ludong University in 2020 and Master’s degree (advised by Professor <a href="https://www.scholat.com/zhouwujie">Wujie Zhou</a>) from Zhejiang University of Science and Technology in 2023, respectively. His research interests include computer vision with a particular interest in efficient video object tracking and semantic segmentation.
 </p>
 
 ## News <br>
