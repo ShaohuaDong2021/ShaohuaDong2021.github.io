@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shaohua Dong / Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : # "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "citations.png"
-  name             : Shaohua Dong
+  name             : University of North Texas
   pronouns         : # example: "she/her"  
   bio              : # "Computer vision, Visual object tracking"
   location         : Denton, TX
