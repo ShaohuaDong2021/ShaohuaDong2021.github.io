@@ -2,8 +2,6 @@
 title: "Selected Publications"
 permalink:/publications/2009-10-01-paper-title-number-1
 ---
-
-
 LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking <br>
 **S. Dong**, Y. Feng, Q. Yang, Y. Lin, H. Fan <br>
 In press https://arxiv.org/pdf/2405.17660. <br>
