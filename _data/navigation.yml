@@ -6,7 +6,7 @@
 
 main:
   - title: "Selected Publications"
-    url: /Selected_Publications/
+    url: /papers/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -21,7 +21,7 @@ main:
   #   url: /year-archive/
     
   - title: "Professional Activities"
-    url: /Professional_Activities/
+    url: /paperreview/
     
   # - title: "Guide"
   #   url: /markdown/
