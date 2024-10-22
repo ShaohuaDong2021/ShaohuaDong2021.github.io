@@ -1,11 +1,6 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
+title: "Publications"
 permalink: /publications/2009-10-01-paper-title-number-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
 
 LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking <br>
