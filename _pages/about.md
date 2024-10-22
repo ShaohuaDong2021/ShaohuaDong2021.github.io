@@ -21,7 +21,7 @@ Shaohua Dong is currently a PhD student (advised by Professor <a href="https://h
 <p align="justify">
 2024-10: Our VastTrack (<a href="https://arxiv.org/pdf/2403.03493">pdf</a>/<a href="https://github.com/HengLan/VastTrack">code-data</a>) for vast category visual tracking is accepted to NeurIPS 2024. <br>
 2024-07: One paper on object tracking (<a href="https://arxiv.org/pdf/2403.05021">pdf</a>/<a href="https://github.com/Nathan-Li123/SMOTer">code</a>) is accepted to ECCV 2024. <br>
-2024-07: One **oral** papers on efficient segmentation (<a href="https://arxiv.org/pdf/2312.00360/">pdf</a>/<a href="https://github.com/ShaohuaDong2021/DPLNet">code</a>) is accepted to IROS 2024. <br>
+2024-07: One **oral** papers on efficient segmentation (<a href="https://arxiv.org/pdf/2312.00360">pdf</a>/<a href="https://github.com/ShaohuaDong2021/DPLNet">code</a>) is accepted to IROS 2024. <br>
 </p>
 
 
