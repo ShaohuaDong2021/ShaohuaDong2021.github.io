@@ -8,7 +8,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking <br>
 **S. Dong**, Y. Feng, Q. Yang, Y. Lin, H. Fan <br>
 In press https://arxiv.org/pdf/2405.17660. <br>
-paper   code-benchmark <br>
+paper   code <br>
 
 VastTrack: Vast Category Visual Object Tracking <br>
 L. Peng*, J. Gao*, X. Liu*, W. Li*, **S. Dong***, Z. Zhang, H. Fan†, and L. Zhang† <br>
